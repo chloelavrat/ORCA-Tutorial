@@ -4,7 +4,7 @@
 >
 > [hundredrabbits](https://github.com/hundredrabbits/Orca)
 
-<iframe width="1280" height="700" src="https://www.youtube.com/embed/niUe0M8fZnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IVE CODING WITH ORCA & PILOT - INVADERS](https://img.youtube.com/vi/niUe0M8fZnw/0.jpg)](http://www.youtube.com/watch?v=niUe0M8fZnw)
 
 This repository contains all the tips and parts needed to learn and play with the wonderful ORCA sequencer. The tutorial is divided into four parts:
 
