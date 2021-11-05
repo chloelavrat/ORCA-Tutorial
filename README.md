@@ -4,6 +4,8 @@
 >
 > [hundredrabbits](https://github.com/hundredrabbits/Orca)
 
+<iframe width="1280" height="700" src="https://www.youtube.com/embed/niUe0M8fZnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This repository contains all the tips and parts needed to learn and play with the wonderful ORCA sequencer. The tutorial is divided into four parts:
 
 - Part 1 - [**Setup**](./P1_Setup/P1_Setup.md)
@@ -21,5 +23,4 @@ This repository contains all the tips and parts needed to learn and play with th
 - Part 4 - **Expert**
 
   > This last part is about why Orca is wonderful, and how to use it in a live situation as an expressive tool. All the tips from the live pros are here, so be sure to check your Orca prerequisites before reading it :) 
-
 
